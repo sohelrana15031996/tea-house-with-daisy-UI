@@ -1,0 +1,7 @@
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+.btn_gradient{
+  color: linear-gradient( #F00, #FF8938);
+}
